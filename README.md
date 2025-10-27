@@ -28,7 +28,11 @@ This project showcases an interactive Power BI dashboard analyzing key metrics f
 
 ### Dashboard.png
 
-![image Alt]
+![image Alt](https://github.com/dharunraj0718-blip/Power-BI-project/blob/343b3deebbb79d915cdff994e070e709e0c2ae2f/Images/Dashboard.png)
+
+### Decomposition Tree.png
+
+![image Alt](
 
 
 
