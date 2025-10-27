@@ -6,11 +6,11 @@ This project showcases an interactive Power BI dashboard analyzing key metrics f
 
 ## Project Objective:
 
-- Visualize insurance policy and claim data.
+- Analyze insurance claim data to identify patterns in payments, settlements, and accident causes.
 
-- Identify trends in claims, premiums, and customer behavior.
+- Examine seasonal trends affecting claim frequency and settlement amounts.
 
-- Highlight actionable insights for business performance improvement.
+- Provide data-driven insights to improve claim management and decision-making.
 
 ## Tools & Technologies:
 
@@ -46,17 +46,17 @@ This project showcases an interactive Power BI dashboard analyzing key metrics f
 
 - Interactive visuals: bar charts, line charts, KPIs, slicers for dynamic filtering.
 
--Customer segmentation and policy performance analysis.
+- Customer segmentation and policy performance analysis.
 
--Insights into trends and patterns for better decision-making.
+- Insights into trends and patterns for better decision-making.
 
 ## Dataset
 
--Dataset used: ![Sample insurance company data prepared in Excel](Insurance.xlsb).
+- Dataset used: ![Sample insurance company data prepared in Excel](Insurance.xlsb).
 
--Cleaned, structured, and refined using **VLOOKUP and IF formulas**.
+- Cleaned, structured, and refined using **VLOOKUP and IF formulas**.
 
--Imported into Power BI for interactive dashboards and visual insights.
+- Imported into Power BI for interactive dashboards and visual insights.
 
 
 
