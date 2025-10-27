@@ -32,7 +32,12 @@ This project showcases an interactive Power BI dashboard analyzing key metrics f
 
 ### Decomposition Tree.png
 
+![image Alt](https://github.com/dharunraj0718-blip/Power-BI-project/blob/a18834316b247325a2e6d952db48d28578859eb7/Images/Decomposition%20Tree.png)
+
+### Donut Chart.png
+
 ![image Alt](
+
 
 
 
