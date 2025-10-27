@@ -62,7 +62,7 @@ This project focuses on analyzing and visualizing insurance company data using E
 
 **Dharunraj S**
 
-Github Profile ()
+[Github Profile](https://github.com/dharunraj0718-blip)
 
 
 
