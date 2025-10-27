@@ -2,7 +2,7 @@
 
 ## Overview:
 
-This project showcases an interactive Power BI dashboard analyzing key metrics for an insurance company. The dashboard provides insights into policy performance, claim trends, and customer segmentation, helping to understand business patterns and make data-driven decisions.
+This project focuses on analyzing and visualizing insurance company data using Excel and Power BI. The data was cleaned and prepared in Excel before being imported into Power BI to create an interactive dashboard. The dashboard highlights key aspects such as payments, settlements, causes of accidents, and seasonal trends, helping to uncover insights that support data-driven decision-making and improve business performance.
 
 ## Project Objective:
 
@@ -44,7 +44,7 @@ This project showcases an interactive Power BI dashboard analyzing key metrics f
 
 ## Project Highlights:
 
-- Interactive visuals: bar charts, line charts, KPIs, slicers for dynamic filtering.
+- **Interactive visuals**: Bar charts, decomposition tree, donut chart, KPIs, slicers for dynamic filtering.
 
 - Customer segmentation and policy performance analysis.
 
