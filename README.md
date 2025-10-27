@@ -58,6 +58,12 @@ This project focuses on analyzing and visualizing insurance company data using E
 
 - Imported into Power BI for interactive dashboards and visual insights.
 
+## Author:
+
+**Dharunraj S**
+
+Github Profile ()
+
 
 
 
