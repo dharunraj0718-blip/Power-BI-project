@@ -36,7 +36,7 @@ This project showcases an interactive Power BI dashboard analyzing key metrics f
 
 ### Donut Chart.png
 
-![image Alt](
+![image Alt](https://github.com/dharunraj0718-blip/Power-BI-project/blob/1bf66377eddca158333e59baa5a52f3f2665022f/Images/Donut%20Chart.png)
 
 
 
