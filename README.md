@@ -22,9 +22,14 @@ This project showcases an interactive Power BI dashboard analyzing key metrics f
 
 ## Dashboard Preview:
 
-### Excel Workbook
+### Excel Workbook.png
 
 ![image Alt](https://github.com/dharunraj0718-blip/Power-BI-project/blob/78d30bce389f587eaa6df2c3cdd930a74dbe4735/Images/Excel%20Workbook.png)
+
+### Dashboard.png
+
+![image Alt]
+
 
 
 
