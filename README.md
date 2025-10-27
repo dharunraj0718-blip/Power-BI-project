@@ -42,6 +42,22 @@ This project showcases an interactive Power BI dashboard analyzing key metrics f
 
 ![Click here to open the full PDF](https://github.com/dharunraj0718-blip/Power-BI-project/blob/f6250358dd5393737098fc25fb8cb391754bac89/Images/Dashboard%20Images.pdf)
 
+## Project Highlights:
+
+- Interactive visuals: bar charts, line charts, KPIs, slicers for dynamic filtering.
+
+-Customer segmentation and policy performance analysis.
+
+-Insights into trends and patterns for better decision-making.
+
+## Dataset
+
+-Dataset used: Sample insurance company data prepared in Excel ().
+
+-Cleaned, structured, and refined using **VLOOKUP and IF formulas**.
+
+-Imported into Power BI for interactive dashboards and visual insights.
+
 
 
 
