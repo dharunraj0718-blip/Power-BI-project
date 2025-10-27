@@ -52,7 +52,7 @@ This project focuses on analyzing and visualizing insurance company data using E
 
 ## Dataset
 
-- Dataset used: ![Sample insurance company data prepared in Excel](Insurance.xlsb).
+- Dataset used: Sample insurance company data prepared in Excel.
 
 - Cleaned, structured, and refined using **VLOOKUP and IF formulas**.
 
