@@ -52,7 +52,7 @@ This project showcases an interactive Power BI dashboard analyzing key metrics f
 
 ## Dataset
 
--Dataset used: Sample insurance company data prepared in Excel ().
+-Dataset used: ![Sample insurance company data prepared in Excel](Insurance.xlsb).
 
 -Cleaned, structured, and refined using **VLOOKUP and IF formulas**.
 
