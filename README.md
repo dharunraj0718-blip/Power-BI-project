@@ -38,9 +38,9 @@ This project showcases an interactive Power BI dashboard analyzing key metrics f
 
 ![image Alt](https://github.com/dharunraj0718-blip/Power-BI-project/blob/1bf66377eddca158333e59baa5a52f3f2665022f/Images/Donut%20Chart.png)
 
-### To view complete Dashboard with all visuals, [click here to open the full open the full PDF]
+### To view complete Dashboard with all visuals:
 
-![pdf Alt](https://github.com/dharunraj0718-blip/Power-BI-project/blob/f6250358dd5393737098fc25fb8cb391754bac89/Images/Dashboard%20Images.pdf)
+![Click here to open the full PDF](https://github.com/dharunraj0718-blip/Power-BI-project/blob/f6250358dd5393737098fc25fb8cb391754bac89/Images/Dashboard%20Images.pdf)
 
 
 
